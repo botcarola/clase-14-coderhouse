@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+}
+
+.box {
+    display: none;
+    width: 200px;
+    border: 1px solid grey;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+.box-visible {
+    display: flex;
+}
